@@ -44,3 +44,6 @@ Before using the script, make sure you have the following library installed:
 - Adjust the `pdf` object's settings to control the page orientation, size, and other formatting options according to your requirements.
 
 That's it! You can use this script to create PDF files from CSV data, making it a versatile tool for generating structured documents.
+
+### License
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
