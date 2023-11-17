@@ -31,7 +31,7 @@ Before using the script, make sure you have the following library installed:
 
 2. Make sure you have a CSV file (e.g., "topics.csv") with the data you want to include in the PDF. Ensure that the CSV file has the necessary columns (e.g., "Topic" and "Pages") as expected by the script.
 
-3. Run the script using Python (e.g., `python pdf_generator.py`).
+3. Run the script using Python (e.g., `python main.py`).
 
 4. The script will read the data from the CSV file and generate the PDF file with the specified content and formatting.
 
